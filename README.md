@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Scientist & Backend Developer
 --------------------------------------
 
-I've been programming for 6 years, since my school time. The first language was Python, i did basic projects on freelance like simple parsers and bots. During my bachelor study at the university interest was on C, C++ and Java. Networks, operating system and system programming especially was for me the most interesting courses. For now, i am improve my skills in back-end development by using Golang, thinking about Machine Learning and creation cool projects. This is only beginning, see what will be later.
+I've been programming for 6 years, since my school time. The first language was Python, i did basic projects on freelance like simple parsers and bots. During my bachelor study at the university interest was on C, C++ and Java. Networks, operating system and system programming especially was for me the most interesting courses. For now, i improve my skills in back-end development by using Golang, thinking about Machine Learning and creation cool projects. This is only beginning, see what will be later.
 
 *   🌍  I'm based in Innopolis
 *   ✉️  You can contact me at [albertavkhadeev@gmail.com](mailto:albertavkhadeev@gmail.com)
