@@ -8,7 +8,7 @@ I've been programming for 6 years, since my school time. The first language was 
 
 *   🌍  I'm based in Innopolis
 *   ✉️  You can contact me at [albertavkhadeev@gmail.com](mailto:albertavkhadeev@gmail.com)
-*   🧠  I'm learning proper web development using Go, Machine Learning.
+*   🧠  I'm experienced in web development using Go.
 *   🤝  I'm open to collaborating on any interesting project connected with an AI or some really useful tools for developers
 *   ⚡  Don't like silicon valley series
 
