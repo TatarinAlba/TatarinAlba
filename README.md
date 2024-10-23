@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Good day everyone. <br>🧑‍💻 I am Software Engineer from Kazan <br>🛜 Working on different projects starting from Networks<br>🏁 Ending in Machine Learning and some other stuff<br>👷 Have some experience working in big team<br>🚪 Welcome 
+🙋‍♂️ Good day everyone. <br>🧑‍💻 I am Software Engineer from Kazan <br>🛜 Working on different projects starting from Networks<br>🏁 Ending in Machine Learning and some other stuff<br>👷 Have some experience working in a big team<br>🚪 Welcome 
 
 
 ## 🌐 Socials:
