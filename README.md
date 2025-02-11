@@ -18,7 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tatarinalba&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=tatarinalba&icon=0&color=0)](https://visitcount.itsvg.in)
+### Big brother watching you
+[![Albert Avkhadeev profile views](https://u8views.com/api/v1/github/profiles/61252538/views/day-week-month-total-count.svg)](https://u8views.com/github/TatarinAlba)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
